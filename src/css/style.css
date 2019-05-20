@@ -4,7 +4,7 @@ body {
   box-sizing: border-box;
   font-family: Arial;
   line-height: 1.6;
-  background: url('background.jpg');
+  background: url('../img/background.jpg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
